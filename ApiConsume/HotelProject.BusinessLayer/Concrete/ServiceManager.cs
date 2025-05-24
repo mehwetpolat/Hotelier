@@ -13,6 +13,11 @@ namespace HotelProject.BusinessLayer.Concrete
     {
         private readonly IServiceDal _serviceDal;
 
+        public ServiceManager(IServiceDal serviceDal)
+        {
+            _serviceDal = serviceDal;
+        }
+
         public void TDelete(Service t)
         {
             _serviceDal.Delete(t);

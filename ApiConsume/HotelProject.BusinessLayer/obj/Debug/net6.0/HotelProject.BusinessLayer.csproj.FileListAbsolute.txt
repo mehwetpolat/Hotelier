@@ -17,3 +17,4 @@ C:\Users\mehmet\Desktop\Projelerim\HotelProject\ApiConsume\HotelProject.Business
 C:\Users\mehmet\Desktop\Projelerim\HotelProject\ApiConsume\HotelProject.BusinessLayer\obj\Debug\net6.0\HotelProject.BusinessLayer.pdb
 C:\Users\mehmet\Desktop\Projelerim\HotelProject\ApiConsume\HotelProject.BusinessLayer\obj\Debug\net6.0\HotelProject.BusinessLayer.genruntimeconfig.cache
 C:\Users\mehmet\Desktop\Projelerim\HotelProject\ApiConsume\HotelProject.BusinessLayer\obj\Debug\net6.0\ref\HotelProject.BusinessLayer.dll
+C:\Users\mehmet\Desktop\Projelerim\HotelProject\ApiConsume\HotelProject.BusinessLayer\obj\Debug\net6.0\HotelProject.BusinessLayer.sourcelink.json
