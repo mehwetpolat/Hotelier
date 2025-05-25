@@ -15,3 +15,4 @@ C:\Users\mehmet\Desktop\Projelerim\HotelProject\ApiConsume\HotelProject.DtoLayer
 C:\Users\mehmet\Desktop\Projelerim\HotelProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.pdb
 C:\Users\mehmet\Desktop\Projelerim\HotelProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.genruntimeconfig.cache
 C:\Users\mehmet\Desktop\Projelerim\HotelProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\ref\HotelProject.DtoLayer.dll
+C:\Users\mehmet\Desktop\Projelerim\HotelProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.sourcelink.json

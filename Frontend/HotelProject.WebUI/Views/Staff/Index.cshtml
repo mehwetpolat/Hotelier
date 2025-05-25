@@ -5,25 +5,25 @@
 }
 
 <table class="table table-bordered">
-    <tr>
-        <th>#</th>
-        <th>Personel Adı</th>
-        <th>Unvanı</th>
-        <th>Sil</th>
-        <th>Güncelle</th>
-        <th>Detaylar</th>
-    </tr>
+<tr>
+    <th>#</th>
+    <th>Personel Adı</th>
+    <th>Unvanı</th>
+    <th>Sil</th>
+    <th>Güncelle</th>
+    <th>Detaylar</th>
+</tr>
 
-    @foreach(var item in Model)
-    {
-        <tr>
-            <td>@item.StaffId</td>
-            <td>@item.Name</td>
-            <td>@item.Title</td>
-            <td><a href="/Staff/DeleteStaff/@item.StaffId" class="btn btn-danger">Sil</a></td>
-            <td><a href="/Staff/UpdateStaff/@item.StaffId" class="btn btn-primary">Güncelle</a></td>
-            <td><a href="/Staff/StaffDetail/@item.StaffId" class="btn btn-dark">Detaylar</a></td>
-        </tr>
-    }
+@foreach (var item in Model)
+{
+    <tr>
+        <td>@item.StaffId</td>
+        <td>@item.Name</td>
+        <td>@item.Title</td>
+        <td><a href="/Staff/DeleteStaff/@item.StaffId" class="btn btn-danger">Sil</a></td>
+        <td><a href="/Staff/UpdateStaff/@item.StaffId" class="btn btn-primary">Güncelle</a></td>
+        <td><a href="/Staff/StaffDetail/@item.StaffId" class="btn btn-dark">Detaylar</a></td>
+    </tr>
+}
 </table>
 <a href="/Staff/AddStaff/" class="btn btn-success">Yeni Personel Girişi</a>
